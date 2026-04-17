@@ -10,6 +10,8 @@ GemeForge（锻核）是一款针对 Windows 平台的 GPU 性能保持工具。
 
 ![程序截图](image.png)
 
+**[⬇️ 点击直接下载 Windows 可执行版](https://github.com/chenpipi0807/GemeForge/raw/main/GemeForge.exe)**
+
 ## 功能特点
 
 - 🔥 **隐藏 OpenGL 上下文**：后台维持合法 3D 负载，不影响前台操作
