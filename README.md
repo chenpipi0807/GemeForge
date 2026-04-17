@@ -8,6 +8,8 @@
 
 GemeForge（锻核）是一款针对 Windows 平台的 GPU 性能保持工具。它通过维持一个隐藏的 OpenGL 3D 负载（Julia Set 分形着色器），欺骗 NVIDIA/AMD 驱动判定为高负载场景，从而强制 GPU 维持 Boost 频率，消除游戏（如 LOL）中因降频导致的卡顿。
 
+![程序截图](image.png)
+
 ## 功能特点
 
 - 🔥 **隐藏 OpenGL 上下文**：后台维持合法 3D 负载，不影响前台操作
